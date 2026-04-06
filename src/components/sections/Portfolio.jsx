@@ -1,7 +1,7 @@
 import React from 'react';
 
 const images = [
-  {
+ {
     src: "https://images.unsplash.com/photo-1512413914805-4c07ea76f570?auto=format&fit=crop&w=600&q=80",
     label: "Bridal Lookbook"
   },
