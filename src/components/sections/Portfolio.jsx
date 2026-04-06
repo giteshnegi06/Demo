@@ -1,22 +1,41 @@
 import React from 'react';
 
 const images = [
- {
-    src: "https://images.unsplash.com/photo-1512413914805-4c07ea76f570?auto=format&fit=crop&w=600&q=80",
-    label: "Bridal Lookbook"
+    {
+    src: "https://images.unsplash.com/photo-1605497788044-5a32c7078486?auto=format&fit=crop&w=600&q=80",
+    label: "Hair Styling"
   },
   {
-    src: "https://images.unsplash.com/photo-1595476108010-b4d1f10d5e43?auto=format&fit=crop&w=600&q=80",
-    label: "Editorial Cuts"
+    src: "https://images.unsplash.com/photo-1599351431202-1e0f0137899a?auto=format&fit=crop&w=600&q=80",
+    label: "Modern Fade"
   },
   {
-    src: "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?auto=format&fit=crop&w=600&q=80",
-    label: "Beard Master"
+    src: "https://images.unsplash.com/photo-1622287162716-f311baa1a2b8?auto=format&fit=crop&w=600&q=80",
+    label: "Salon Interior"
   },
   {
-    src: "https://images.unsplash.com/photo-1580618672591-eb180b1a973f?auto=format&fit=crop&w=600&q=80",
-    label: "Color Session"
+    src: "https://images.unsplash.com/photo-1600948836101-f9ffda59d250?auto=format&fit=crop&w=600&q=80",
+    label: "Hair Wash"
   },
+  {
+    src: "https://images.unsplash.com/photo-1585747860715-2ba37e788b70?auto=format&fit=crop&w=600&q=80",
+    label: "Luxury Grooming"
+  },
+
+  // 💄 FEMALE HAIR & MAKEUP
+  {
+    src: "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80",
+    label: "Bridal Makeup"
+  },
+  {
+    src: "https://images.unsplash.com/photo-1487412912498-0447578fcca8?auto=format&fit=crop&w=600&q=80",
+    label: "Party Makeup"
+  },
+  {
+    src: "https://images.unsplash.com/photo-1500840216050-6ffa99d75160?auto=format&fit=crop&w=600&q=80",
+    label: "Hair Styling Women"
+  },
+  
 ];
 
 export function Portfolio() {
